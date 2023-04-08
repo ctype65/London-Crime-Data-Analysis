@@ -1,6 +1,7 @@
 # London Crime Data Analysis
+![London Crime picture](https://user-images.githubusercontent.com/29575107/230739760-06d7ea2c-ce6c-4bd7-9a0d-480db8d52e92.jpg)
 
-![London%20Crime%20picture.jpg](attachment:London%20Crime%20picture.jpg)
+
 
 Area-wise crime analysis of London to see pattern in different types of crime and get to know the neighborhood which can help to understand where the most and least crime occur in London which can be helpful for residence and places with most crime rates can help local police to control criminal activities.
 
